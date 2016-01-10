@@ -1,1 +1,1 @@
-Fake HDD speedup tool
+Fake HDD speedup tool for joke
